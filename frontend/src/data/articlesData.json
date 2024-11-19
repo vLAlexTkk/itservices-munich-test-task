@@ -1,0 +1,396 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "iconPath": "/icons/technology-icon.svg"
+    },
+    {
+      "id": 2,
+      "name": "Health",
+      "iconPath": "/icons/health-icons.svg"
+    },
+    {
+      "id": 3,
+      "name": "Finance",
+      "iconPath": "/icons/finance-icon.svg"
+    },
+    {
+      "id": 4,
+      "name": "Psychology",
+      "iconPath": "/icons/psychology-icon.svg"
+    },
+    {
+      "id": 5,
+      "name": "Travel",
+      "iconPath": "/icons/travel-icon.svg"
+    },
+    {
+      "id": 6,
+      "name": "Education",
+      "iconPath": "/icons/education-icon.svg"
+    },
+    {
+      "id": 7,
+      "name": "Lifestyle",
+      "iconPath": "/icons/lifestyle-icon.svg"
+    },
+    {
+      "id": 8,
+      "name": "Science",
+      "iconPath": "/icons/science-icon.svg"
+    },
+    {
+      "id": 9,
+      "name": "Sports",
+      "iconPath": "/icons/sports-icon.svg"
+    },
+    {
+      "id": 10,
+      "name": "Entertainment",
+      "iconPath": "/icons/entertainment-icon.svg"
+    },
+    {
+      "id": 1,
+      "name": "Science",
+      "iconPath": "/icons/science-icon.svg"
+    },
+    {
+      "id": 12,
+      "name": "Sports",
+      "iconPath": "/icons/sports-icon.svg"
+    },
+    {
+      "id": 13,
+      "name": "Entertainment",
+      "iconPath": "/icons/entertainment-icon.svg"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "name": "Most Visited"
+    },
+    {
+      "id": 2,
+      "name": "Trending"
+    },
+    {
+      "id": 3,
+      "name": "Recommended"
+    },
+    {
+      "id": 4,
+      "name": "Recently Added"
+    },
+    {
+      "id": 5,
+      "name": "Interviews"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "title": "The Future of Artificial Intelligence",
+      "author": "John Doe",
+      "views": "1.5k",
+      "imagePath": "/images/avatars/user-avatar-1.jpeg",
+      "content": "Artificial intelligence (AI) is reshaping the world in unprecedented ways. From automating mundane tasks to revolutionizing healthcare and education, the potential of AI is immense. However, with great power comes great responsibility. Issues such as ethical concerns, data privacy, and job displacement need to be addressed. This article delves into the advancements and challenges AI is expected to face in the next decade.",
+      "features": [1, 2, 3]
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "title": "How 5G Technology Will Transform Communication",
+        "author": "Jane Smith",
+        "views": "1.2k",
+        "imagePath": "/images/avatars/user-avatar-2.jpeg",
+        "content": "5G is not just an upgrade from 4G; it is a revolution in communication technology. With speeds 100 times faster than its predecessor, 5G enables innovations like IoT, remote surgeries, and autonomous vehicles. While its adoption is accelerating worldwide, there are concerns about infrastructure costs and data security that must be addressed.",
+        "features": [2, 4]
+    },
+    {
+        "id": 3,
+        "category_id": 2,
+        "title": "The Benefits of Balanced Nutrition",
+        "author": "Emily Johnson",
+        "views": "1.8k",
+        "imagePath": "/images/avatars/user-avatar-3.jpeg",
+        "content": "A balanced diet is key to maintaining a healthy lifestyle. It provides the essential nutrients your body needs for energy, immunity, and longevity. Incorporating a variety of fruits, vegetables, proteins, and healthy fats can prevent chronic diseases like diabetes and cardiovascular issues. This article outlines 10 simple tips to improve your diet today.",
+        "features": [1, 3]
+    },
+    {
+        "id": 4,
+        "category_id": 2,
+        "title": "Secrets to a Good Night's Sleep",
+        "author": "Mark Brown",
+        "views": "950",
+        "imagePath": "/images/avatars/user-avatar-4.jpeg",
+        "content": "Sleep is a fundamental part of our lives, yet many overlook its importance. This article explores how sleep routines, proper environments, and relaxation techniques affect health. Learn why insufficient sleep can lead to decreased concentration, mood swings, and weakened immunity, along with actionable tips to enhance your rest.",
+        "features": [4]
+    },
+    {
+        "id": 5,
+        "category_id": 3,
+        "title": "How to Create a Personal Financial Plan",
+        "author": "Sarah Lee",
+        "views": "2.0k",
+        "imagePath": "/images/avatars/user-avatar-5.jpeg",
+        "content": "A personal financial plan helps you control expenses, save effectively, and achieve your financial goals. This guide covers key steps, such as analyzing income and expenses, setting short-term and long-term objectives, and choosing the right investment tools. Additionally, we discuss common pitfalls and how to make your plan adaptable to change.",
+        "features": [1, 5]
+    },
+    {
+        "id": 6,
+        "category_id": 3,
+        "title": "Investing in Real Estate: A Beginner's Guide",
+        "author": "Michael Green",
+        "views": "1.75k",
+        "content": "Real estate is often considered a stable investment option. Buying properties for rent or capital appreciation can provide steady income or long-term growth. Before investing, it is crucial to analyze the market, identify risks, and understand legal implications. This article explores the advantages and challenges of real estate investment.",
+        "features": [3, 4]
+    },
+    {
+        "id": 7,
+        "category_id": 4,
+        "title": "Overcoming Workplace Stress",
+        "author": "Jessica White",
+        "views": "1.4k",
+        "content": "Workplace stress can negatively impact productivity and health. This article discusses the main causes of stress and practical ways to overcome it. Learn how to manage your time effectively, communicate with colleagues, and create a work-life balance to maintain both mental and physical well-being.",
+        "features": [1, 2]
+    },
+    {
+        "id": 8,
+        "category_id": 4,
+        "title": "Developing Emotional Intelligence",
+        "author": "David Black",
+        "views": "1.1k",
+        "content": "Emotional intelligence (EI) is the ability to recognize, understand, and manage your emotions while influencing the emotions of others. This article explores ways to enhance your EI, exercises for better emotional control, and how it can improve interpersonal relationships and decision-making.",
+        "features": [3]
+    },
+    {
+        "id": 9,
+        "category_id": 5,
+        "title": "Top 10 Must-Visit Destinations in Europe",
+        "author": "Mark Brown",
+        "views": "2.2k",
+        "content": "Europe is a treasure trove of cultural landmarks, natural wonders, and vibrant cities. From the romantic streets of Paris to the breathtaking fjords of Norway, this article highlights 10 must-visit locations for every traveler. Discover the unique charm and history of each destination.",
+        "features": [2, 5]
+    },
+    {
+        "id": 10,
+        "category_id": 5,
+        "title": "Traveling on a Budget: Tips and Tricks",
+        "author": "Jane Smith",
+        "views": "1.3k",
+        "content": "Traveling doesn't have to break the bank. With proper planning, you can explore the world without spending a fortune. This article provides practical tips, including using low-cost airlines, staying with locals, and booking independently, to make your travels both affordable and unforgettable.",
+        "features": [4, 5]
+    },
+    {
+        "id": 11,
+        "category_id": 1,
+        "title": "Exploring the Latest Breakthroughs in Artificial Intelligence",
+        "author": "Jane Smith",
+        "views": "2.2k",
+        "content": "Artificial intelligence continues to revolutionize industries worldwide. From machine learning models predicting market trends to AI in healthcare improving diagnostics, the advancements are astounding. This article delves into how AI is shaping the future of technology.",
+        "features": [4, 5]
+    },
+    {
+        "id": 12,
+        "category_id": 1,
+        "title": "5G Connectivity: What the Future Holds",
+        "author": "Emily Johnson",
+        "views": "1.8k",
+        "content": "The rollout of 5G networks has opened doors to faster connectivity, enabling innovations in IoT and autonomous vehicles. Explore how 5G is expected to redefine communication and technology as we know it.",
+        "features": [4, 5]
+    },
+    {
+        "id": 13,
+        "category_id": 2,
+        "title": "The Importance of Mental Health Awareness",
+        "author": "Emily Johnson",
+        "views": "1.5k",
+        "content": "Mental health is as important as physical health. This article highlights the importance of seeking help, reducing stigma, and adopting practices that contribute to mental well-being.",
+        "features": [2, 1]
+    },
+    {
+        "id": 14,
+        "category_id": 2,
+        "title": "Nutrition Hacks for a Healthier Lifestyle",
+        "author": "Emily Johnson",
+        "views": "1.25k",
+        "content": "Eating balanced meals is crucial for maintaining a healthy body. Learn easy-to-follow tips for improving your diet without sacrificing taste or variety.",
+        "features": [3, 1]
+    },
+    {
+        "id": 15,
+        "category_id": 3,
+        "title": "Personal Finance 101: Building Wealth Step-by-Step",
+        "author": "Emily Johnson",
+        "views": "2.0k",
+        "content": "Managing your finances effectively can pave the way to financial freedom. Discover simple strategies for budgeting, saving, and investing wisely.",
+        "features": [1, 5]
+    },
+    {
+        "id": 16,
+        "category_id": 3,
+        "title": "Understanding Cryptocurrency: Risks and Rewards",
+        "author": "Sophia Green",
+        "views": "1.85k",
+        "content": "Cryptocurrency has become a hot topic in finance. This article explains the basics, potential benefits, and risks associated with investing in digital currencies.",
+        "features": [3, 5]
+    },
+    {
+        "id": 17,
+        "category_id": 4,
+        "title": "The Science of Emotional Intelligence",
+        "author": "Laura White",
+        "views": "1.7k",
+        "content": "Emotional intelligence plays a vital role in our personal and professional lives. Learn how to develop self-awareness and empathy to strengthen relationships.",
+        "features": [1, 4]
+    },
+    {
+        "id": 18,
+        "category_id": 4,
+        "title": "Managing Stress Effectively",
+        "author": "Mark Taylor",
+        "views": "1.45k",
+        "content": "Stress is an inevitable part of life, but it doesn't have to take over. Discover proven techniques for managing stress and maintaining balance.",
+        "features": [2, 3]
+    },
+    {
+        "id": 19,
+        "category_id": 5,
+        "title": "Top 10 Destinations to Visit in 2024",
+        "author": "John Doe",
+        "views": "2.5k",
+        "content": "Looking for travel inspiration? From the serene beaches of Bali to the vibrant streets of Tokyo, this guide covers the top destinations to visit in 2024.",
+        "features": [1, 3]
+    },
+    {
+        "id": 20,
+        "category_id": 5,
+        "title": "Traveling on a Budget: Tips for Saving Money",
+        "author": "Chris Brown",
+        "views": "1.9k",
+        "content": "Travel doesn't have to be expensive. With careful planning and the right strategies, you can explore the world without breaking the bank.",
+        "features": [4, 5]
+    },
+    {
+        "id": 21,
+        "category_id": 1,
+        "title": "The Rise of Quantum Computing",
+        "author": "Sophia Carter",
+        "views": "2.4k",
+        "content": "Quantum computing is poised to revolutionize industries with its immense processing power. Learn how it works, its potential applications, and the challenges we face in making it mainstream.",
+        "features": [1, 2, 3]
+    },
+    {
+        "id": 22,
+        "category_id": 1,
+        "title": "Exploring the World of Blockchain Beyond Cryptocurrency",
+        "author": "Jack Wilson",
+        "views": "1.9k",
+        "content": "Blockchain technology offers solutions beyond cryptocurrencies. Discover its role in supply chain management, voting systems, and secure data sharing.",
+        "features": [2, 4]
+    },
+    {
+        "id": 23,
+        "category_id": 1,
+        "title": "The Future of Augmented Reality",
+        "author": "Emily Davis",
+        "views": "2.15k",
+        "content": "Augmented reality (AR) is bridging the gap between the physical and digital worlds. Learn about its applications in gaming, education, and healthcare.",
+        "features": [1, 5]
+    },
+    {
+        "id": 24,
+        "category_id": 1,
+        "title": "The Role of Edge Computing in Modern Technology",
+        "author": "David Johnson",
+        "views": "1.8k",
+        "content": "Edge computing is enabling faster processing and lower latency by bringing computation closer to the data source. Explore its impact on IoT and real-time analytics.",
+        "features": [3, 4]
+    },
+    {
+        "id": 25,
+        "category_id": 1,
+        "title": "The Evolution of AI-Powered Chatbots",
+        "author": "Mark Brown",
+        "views": "2.1k",
+        "content": "AI-powered chatbots are transforming customer service and communication. This article explores their development, challenges, and future potential.",
+        "features": [1, 5]
+    },
+    {
+        "id": 26,
+        "category_id": 2,
+        "title": "The Science Behind Healthy Sleep Habits",
+        "author": "Sarah Lee",
+        "views": "1.25k",
+        "content": "Healthy sleep habits are essential for overall well-being. Discover tips and insights into creating a routine that promotes restorative sleep.",
+        "features": [2, 3]
+    },
+    {
+        "id": 27,
+        "category_id": 2,
+        "title": "Superfoods: Fact or Fiction?",
+        "author": "John Doe",
+        "views": "1.1k",
+        "content": "Superfoods are often touted as miracle cures, but are they worth the hype? This article separates the facts from the fiction.",
+        "features": [1, 4]
+    },
+    {
+        "id": 28,
+        "category_id": 2,
+        "title": "Fitness Trends for 2024",
+        "author": "Jessica Green",
+        "views": "1.5k",
+        "content": "From virtual workouts to wearable tech, fitness trends are evolving. Learn how to stay active and fit with the latest innovations.",
+        "features": [3, 5]
+    },
+    {
+        "id": 29,
+        "category_id": 3,
+        "title": "Investing for Beginners: Building Wealth Over Time",
+        "author": "Sarah Lee",
+        "views": "1.75k",
+        "content": "Starting your investment journey can be overwhelming. This guide offers practical tips for building a solid portfolio and avoiding common pitfalls.",
+        "features": [1, 4]
+    },
+    {
+        "id": 30,
+        "category_id": 4,
+        "title": "Understanding the Psychology of Happiness",
+        "author": "Sophia Green",
+        "views": "1.4k",
+        "content": "Happiness is more than a fleeting emotion. Learn about the psychological factors that contribute to lasting happiness and how to cultivate it.",
+        "features": [2, 3]
+    },
+    {
+        "id": 31,
+        "category_id": 4,
+        "title": "The Impact of Stress on Mental Health",
+        "author": "Sarah Lee",
+        "views": "1.55k",
+        "content": "Stress affects both our bodies and minds. This article explores the connection between stress and mental health, along with strategies for stress management.",
+        "features": [1, 5]
+    },
+    {
+        "id": 32,
+        "category_id": 5,
+        "title": "Exploring Hidden Gems Around the World",
+        "author": "Sarah Lee",
+        "views": "2.4k",
+        "content": "Traveling off the beaten path offers unique experiences. Discover hidden gems around the world that are worth visiting.",
+        "features": [3, 4]
+    },
+    {
+        "id": 33,
+        "category_id": 5,
+        "title": "Travel Tips for Solo Adventurers",
+        "author": "John Doe",
+        "views": "1.9k",
+        "content": "Solo travel is a rewarding experience. Learn essential tips for staying safe, budgeting effectively, and making the most of your solo adventures.",
+        "features": [1, 5]
+    }
+  ]
+}
+  
